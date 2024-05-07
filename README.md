@@ -13,6 +13,7 @@ Here is the list of websites and YouTube Channels I refered for my Data Science 
 - YouTube Channel **Siddhardhan** ["Project 1 : SONAR Rock vs Mine Prediction with Python | End To End Python Machine Learning Project"](https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
 - YouTube Channel **Krish Naik** ["Complete Road Map To Be Expert In Python- Follow My Way"](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=1)
 - YouTube Channel **codebasics** ["Machine Learning Tutorial Python -1: What is Machine Learning?"](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+- [mlcourse.ai – Open Machine Learning Course](https://mlcourse.ai/book/index.html)
 ### Deep Learning
 - YouTube Channel **codebasics** ["Introduction | Deep Learning Tutorial 1 (Tensorflow Tutorial, Keras & Python)"](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - YouTube Channel **Krish Naik** ["Why Deep Learning Is Becoming So Popular?🔥🔥🔥🔥🔥🔥"](https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
