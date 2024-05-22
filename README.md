@@ -17,4 +17,7 @@ Here is the list of websites and YouTube Channels I refered for my Data Science 
 ### Deep Learning
 - YouTube Channel **codebasics** ["Introduction | Deep Learning Tutorial 1 (Tensorflow Tutorial, Keras & Python)"](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - YouTube Channel **Krish Naik** ["Why Deep Learning Is Becoming So Popular?🔥🔥🔥🔥🔥🔥"](https://www.youtube.com/watch?v=YFNKnUhm_-s&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+### Time series ANalysis and Forecasting
+- YouTube Channel **Krish Naik** ["Announcing Time Series Live Session With Syllabus And Prerequisites"](https://www.youtube.com/watch?v=vhI0Nr1hHCY&list=PLZoTAELRMXVNty3jyJkYXuyQY3lMSpr3b)
+- YouTube Channel **codebasics** ["Pandas Time Series Analysis Part 1: DatetimeIndex and Resample"](https://www.youtube.com/watch?v=r0s4slGHwzE&list=PLeo1K3hjS3uvMADnFjV1yg6E5nVU4kOob)
 
