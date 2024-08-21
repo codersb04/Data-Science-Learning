@@ -21,3 +21,6 @@ Here is the list of websites and YouTube Channels I refered for my Data Science 
 - YouTube Channel **Krish Naik** ["Announcing Time Series Live Session With Syllabus And Prerequisites"](https://www.youtube.com/watch?v=vhI0Nr1hHCY&list=PLZoTAELRMXVNty3jyJkYXuyQY3lMSpr3b)
 - YouTube Channel **codebasics** ["Pandas Time Series Analysis Part 1: DatetimeIndex and Resample"](https://www.youtube.com/watch?v=r0s4slGHwzE&list=PLeo1K3hjS3uvMADnFjV1yg6E5nVU4kOob)
 
+### Optical Charater Recognition
+- YouTube Channel **Python Tutorials for Digital Humanities** ["OCR in Python Tutorials"](https://www.youtube.com/watch?v=tQGgGY8mTP0&list=PL2VXyKi-KpYuTAZz__9KVl1jQz74bDG7i)
+
